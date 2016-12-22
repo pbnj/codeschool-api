@@ -1,6 +1,6 @@
 {
   "name": "codeschool-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A client library to query CodeSchool public user profiles",
   "main": "index.js",
   "scripts": {
