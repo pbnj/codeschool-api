@@ -1,7 +1,7 @@
 {
-  "name": "learning-path",
+  "name": "codeschool-api",
   "version": "0.0.1",
-  "description": "Learning what others are learning",
+  "description": "A client library to query CodeSchool public user profiles",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec",
