@@ -1,0 +1,26 @@
+{
+  "name": "learning-path",
+  "version": "0.0.1",
+  "description": "Learning what others are learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "lint": "eslint lib/*.js test/*.js"
+  },
+  "author": "Peter Benjamin",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "bluebird": "^3.4.6"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb-base": "^11.0.0",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-standard": "^2.0.1",
+    "mocha": "^3.2.0"
+  }
+}
