@@ -1,5 +1,7 @@
 # CodeSchool API
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/petermbenjamin/codeschool-api.svg)](https://greenkeeper.io/)
+
 A client library to query CodeSchool public user profiles
 
 ## Install
